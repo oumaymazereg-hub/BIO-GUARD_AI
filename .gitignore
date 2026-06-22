@@ -1,0 +1,15 @@
+.venv/
+venv/
+venv1/
+fingerPrintAI/
+pycache/
+*.pyc
+*.pkl
+*.joblib
+*.zip
+*.csv
+models/
+*.h5
+*.npy
+dataset/
+data/

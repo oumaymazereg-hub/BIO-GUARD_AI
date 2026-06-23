@@ -2,7 +2,7 @@ streamlit
 opencv-python-headless
 numpy
 joblib
-tensorflow-cpu==2.12.0
+tensorflow==2.20.0
 sklearn-learn
 matplotlib
 plotly

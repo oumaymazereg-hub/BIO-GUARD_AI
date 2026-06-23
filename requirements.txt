@@ -2,8 +2,9 @@ streamlit
 opencv-python-headless
 numpy
 joblib
-sklearn-learn
+scikit-learn
 matplotlib
 plotly
 pandas
-keras
+tensorflow==2.15.0
+keras==2.15.0
